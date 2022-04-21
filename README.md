@@ -1,2 +1,2 @@
 # keyboard-website
-My second website project incorporating more CSS and flexbox.
+In my first website project, I used basic HTML to structure my pages. Now I will be incorporating CSS, focusing mainly on using Flexbox, to create a cleaner interface.
