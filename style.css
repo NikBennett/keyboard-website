@@ -92,6 +92,7 @@ h2 {
     flex-flow: row wrap;
     justify-content: space-around;
     padding: 10px;
+    margin-bottom: 50px;
 }
 
 .keyboardpics p {
@@ -123,7 +124,7 @@ h2 {
     flex-direction: column;
     background-color: #E5E7EB;
     color: #1F2937;
-    padding: 30px;
+    padding: 50px;
 }
 
 .quote p {
@@ -171,4 +172,11 @@ h2 {
     width: 100px;
     font-size: 20px;
     width: 150px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
 }
